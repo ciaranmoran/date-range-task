@@ -1,0 +1,11 @@
+{
+  "name": "date-range-task",
+  "version": "1.0.0",
+  "description": "Date range task",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ciaran Moran",
+  "license": "ISC"
+}
